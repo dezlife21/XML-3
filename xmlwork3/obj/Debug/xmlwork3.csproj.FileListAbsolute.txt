@@ -1,0 +1,11 @@
+C:\Users\Пользователь\Desktop\#1\xmlwork3\xmlwork3\bin\Debug\xmlwork3.exe.config
+C:\Users\Пользователь\Desktop\#1\xmlwork3\xmlwork3\bin\Debug\xmlwork3.exe
+C:\Users\Пользователь\Desktop\#1\xmlwork3\xmlwork3\bin\Debug\xmlwork3.pdb
+C:\Users\Пользователь\Desktop\#1\xmlwork3\xmlwork3\obj\Debug\xmlwork3.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\#1\xmlwork3\xmlwork3\obj\Debug\xmlwork3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\#1\xmlwork3\xmlwork3\obj\Debug\xmlwork3.Form1.resources
+C:\Users\Пользователь\Desktop\#1\xmlwork3\xmlwork3\obj\Debug\xmlwork3.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\#1\xmlwork3\xmlwork3\obj\Debug\xmlwork3.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\#1\xmlwork3\xmlwork3\obj\Debug\xmlwork3.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\#1\xmlwork3\xmlwork3\obj\Debug\xmlwork3.exe
+C:\Users\Пользователь\Desktop\#1\xmlwork3\xmlwork3\obj\Debug\xmlwork3.pdb
